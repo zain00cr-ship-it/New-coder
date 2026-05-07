@@ -1,3 +1,4 @@
 # New-coder
 This  is my first repository.
-Zain Ali .
+<br>
+ Author Zain Ali .
